@@ -1,7 +1,7 @@
 # Olá, bem-vindo ao meu perfil ✨
 - 🔭 Focada em Back-end
 - 🏄‍♀️ Sempre buscando novas oportunidades
-- 🐱‍👤 Buscando trabalhar com cybersegurença futuramente
+- 🐱‍👤 Procurando trabalhar com cybersegurença futuramente
 ## Learning about:
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="65" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
