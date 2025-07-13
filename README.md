@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu perfil ✨
 - 🔭 Focada em Back-end
-- 👽 Sempre buscando novas oportunidades
+- 🏄‍♀️ Sempre buscando novas oportunidades
 - 🐱‍👤 Buscando trabalhar com cybersegurença futuramente
 ## Learning about:
 <div style="display: inline_block"><br>
