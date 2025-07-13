@@ -29,7 +29,7 @@
     />
   </picture>
 
-  <picture style="margin-right: 20px;">
+  <picture style="margin: 7%;">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anitapalhares&layout=compact&theme=dracula"
       media="(prefers-color-scheme: dark)"
