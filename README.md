@@ -7,7 +7,6 @@
 🐱‍🐉🐱‍👤
 
 <div>
- 
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anitapalhares&layout=compact&theme=dracula"
@@ -19,6 +18,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitapalhares&layout=compact" />
   </picture>
+ <p>   ____</p>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=anitapalhares&show_icons=true&theme=dracula"
