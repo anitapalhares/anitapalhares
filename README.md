@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  A Little Bit About Me and My Interests
+</h1>
+
+ <img src="https://github.com/SkiereszDiego/SkiereszDiego/blob/main/firstpixelart.gif"  height="290px" align="right" />
 # Olá, bem-vindo ao meu perfil ✨
 - 🔭 Focada em Back-end
 - 🏄‍♀️ Sempre buscando novas oportunidades
@@ -44,3 +53,6 @@
   </picture>
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
