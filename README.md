@@ -13,38 +13,6 @@
   <img align="center" alt="JS" height="65" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="65" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="65" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-<div style="display: flex; flex-wrap: wrap;">
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anitapalhares&show_icons=true&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anitapalhares&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=anitapalhares&show_icons=true" 
-      style="width: 50%; height: auto;"
-    />
-  </picture>
-
-  <picture style="margin: auto;">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anitapalhares&layout=compact&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anitapalhares&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitapalhares&layout=compact" 
-      style="width: 49%; height: auto;"
-    />
-  </picture>
-
+  <img align="center" alt="CSS" height="65" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="   " height="65" width="60" src="  ">
 </div>
