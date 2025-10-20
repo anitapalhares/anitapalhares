@@ -3,7 +3,7 @@
 </p>
 
 # Olá, bem-vindo ao meu perfil ✨
-- 🔭 Focada em Back-end
+- 🔭 Focada em Back-end — mas também gosto de front
 - 🏄‍♀️ Sempre buscando novas oportunidades
 - 🐱‍👤 Procurando trabalhar com cybersegurença futuramente
 ## Learning about:
